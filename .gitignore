@@ -1,0 +1,4 @@
+*.dat
+fig1_tmp.py
+survey.csv
+__pycache__
